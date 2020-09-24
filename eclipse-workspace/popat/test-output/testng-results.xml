@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-24T23:28:10 MSK" name="Default suite" finished-at="2020-09-24T23:28:28 MSK" duration-ms="18289">
+    <groups>
+    </groups>
+    <test started-at="2020-09-24T23:28:10 MSK" name="Default test" finished-at="2020-09-24T23:28:28 MSK" duration-ms="18289">
+      <class name="popat.Tests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:popat.Tests@407a7f2a]" started-at="2020-09-24T23:28:10 MSK" name="setup" finished-at="2020-09-24T23:28:17 MSK" duration-ms="6953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoPresens()[pri:1, instance:popat.Tests@407a7f2a]" started-at="2020-09-24T23:28:17 MSK" name="logoPresens" finished-at="2020-09-24T23:28:17 MSK" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoPresens -->
+        <test-method signature="loginTest()[pri:2, instance:popat.Tests@407a7f2a]" started-at="2020-09-24T23:28:17 MSK" name="loginTest" finished-at="2020-09-24T23:28:19 MSK" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="registrationTest()[pri:3, instance:popat.Tests@407a7f2a]" started-at="2020-09-24T23:28:19 MSK" name="registrationTest" finished-at="2020-09-24T23:28:28 MSK" duration-ms="9064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+        <test-method is-config="true" signature="tesrDown()[pri:0, instance:popat.Tests@407a7f2a]" started-at="2020-09-24T23:28:28 MSK" name="tesrDown" finished-at="2020-09-24T23:28:28 MSK" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesrDown -->
+      </class> <!-- popat.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
