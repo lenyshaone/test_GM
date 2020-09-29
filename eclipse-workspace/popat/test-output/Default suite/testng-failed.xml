@@ -5,11 +5,9 @@
     <classes>
       <class name="popat.Tests">
         <methods>
-          <include name="loginTest"/>
-          <include name="registrationTest"/>
+          <include name="clickEmail"/>
           <include name="setup"/>
           <include name="tesrDown"/>
-          <include name="logoPresens"/>
         </methods>
       </class> <!-- popat.Tests -->
     </classes>
